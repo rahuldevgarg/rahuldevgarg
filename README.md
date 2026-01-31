@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @rahuldevgarg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-rahuldevgarg/rahuldevgarg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @rahuldevgarg  
+- 👀 I’m interested in building **robust backend systems**, **developer platforms**, **AI-assisted system documentation**, and **practical infrastructure** using tools like **Java, Kotlin, PHP, Flutter, BigQuery, GraphQL, REST**, and **cloud-native architectures**. I care about systems that survive scale, audits, and reality.  
+- 🌱 I’m currently learning and experimenting with **AI-driven system design**, **automated documentation pipelines**, **Raspberry Pi–based networking and servers**, **modern UI/UX redesign for legacy systems**, and **advanced DevOps automation**.  
+- 💞️ I’m looking to collaborate on **backend-heavy products**, **internal tooling**, **open-source developer utilities**, **AI + documentation workflows**, and **projects that replace fragile legacy setups with sane, modern architecture**.  
+- 📫 How to reach me:  
+  - GitHub: https://github.com/rahuldevgarg  
+  - LinkedIn: https://linkedin.com/in/rahuldevgarg  
+  - Email: rahul@codingdevs.com
