@@ -9,7 +9,7 @@ Not demo code. Not hypeware. Real software that survives scale, audits, and huma
 ## 👀 What I Care About
 
 - **Backend & Platform Engineering**  
-  Java, Kotlin, PHP, REST, GraphQL, data-heavy systems, service boundaries that make sense.
+  Java, Kotlin, REST, GraphQL, data-heavy systems, service boundaries that make sense.
 
 - **System Architecture & Modernization**  
   Turning legacy spaghetti into boring, maintainable, documented systems.
